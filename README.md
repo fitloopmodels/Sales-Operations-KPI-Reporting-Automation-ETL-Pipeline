@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29179720/README.md)
 # Sales Operations KPI Reporting Automation & ETL Pipeline
 
 End-to-end data pipeline and reporting system for sales operations analytics. Covers ETL, automated KPI reporting, statistical campaign analysis, and executive dashboarding.
