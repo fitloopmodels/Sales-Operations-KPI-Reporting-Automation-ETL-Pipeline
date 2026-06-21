@@ -1,0 +1,21 @@
+rep_id,rep_name,region,territory,manager,hire_date
+R001,Larry Peck,North,Nyc Metro,Christian Scott,2021-08-02
+R002,Daniel Cortez,North,Nyc Metro,Stephen Ramirez,2018-08-17
+R003,Nicole Silva Dds,North,Nyc Metro,Jennifer Webb,2018-02-21
+R004,Norma Matthews,North,New England,Kyle Smith,2022-02-27
+R005,Stephanie Cruz,North,New England,Mary Rojas,2019-07-18
+R006,Travis Jacobson,North,New England,Angela Ho,2019-05-17
+R007,Angela Blevins,South,Texas,Megan Hanna,2019-04-03
+R008,Ashlee Rosales,South,Texas,Krystal Brooks,2018-10-13
+R009,Richard Thomas,South,Texas,Lisa Diaz,2022-02-17
+R010,Troy Gordon,South,Southeast,Bradley Davidson,2018-07-29
+R011,Lindsey Phillips,South,Southeast,David Perez,2021-10-17
+R012,Tyrone Gray,South,Southeast,Corey Landry,2022-02-25
+R013,Dorothy Davidson,East,Mid-Atlantic,Willie Kerr,2023-01-02
+R014,Kirk Roman,East,Mid-Atlantic,Kenneth Chase,2021-01-21
+R015,Luke Miller,East,Mid-Atlantic,Daniel King,2018-06-28
+R016,Richard Friedman,East,Florida,Shannon Dyer,2021-04-24
+R017,Jason Peters,East,Florida,Robert Duncan,2020-05-14
+R018,Sarah Cruz,East,Florida,Andrea Werner,2018-03-07
+R019,Cassandra Ortiz,West,California,Rebecca Pena,2018-03-03
+R020,Devon Castillo,West,California,Scott Stephens,2018-07-11

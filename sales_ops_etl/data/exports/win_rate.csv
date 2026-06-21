@@ -1,0 +1,418 @@
+rep_name,region,territory,month_year,total_closed,won,win_rate
+Kirk Roman,East,Mid-Atlantic,2023-01,1,0,0.0
+Lindsey Phillips,South,Southeast,2023-01,1,0,0.0
+Troy Gordon,South,Southeast,2023-01,1,0,0.0
+Tyrone Gray,South,Southeast,2023-01,1,0,0.0
+Kirk Roman,East,Mid-Atlantic,2023-02,1,1,1.0
+Norma Matthews,North,New England,2023-02,1,1,1.0
+Tyrone Gray,South,Southeast,2023-02,1,1,1.0
+Nicole Silva Dds,North,Nyc Metro,2023-02,2,1,0.5
+Ashlee Rosales,South,Texas,2023-02,1,0,0.0
+Cassandra Ortiz,West,California,2023-02,1,0,0.0
+Lindsey Phillips,South,Southeast,2023-02,2,0,0.0
+Richard Friedman,East,Florida,2023-02,3,0,0.0
+Sarah Cruz,East,Florida,2023-02,1,0,0.0
+Ashlee Rosales,South,Texas,2023-03,1,1,1.0
+Cassandra Ortiz,West,California,2023-03,1,1,1.0
+Jason Peters,East,Florida,2023-03,1,1,1.0
+Luke Miller,East,Mid-Atlantic,2023-03,1,1,1.0
+Nicole Silva Dds,North,Nyc Metro,2023-03,1,1,1.0
+Sarah Cruz,East,Florida,2023-03,1,1,1.0
+Stephanie Cruz,North,New England,2023-03,2,2,1.0
+Dorothy Davidson,East,Mid-Atlantic,2023-03,5,3,0.6
+Devon Castillo,West,California,2023-03,2,1,0.5
+Travis Jacobson,North,New England,2023-03,2,1,0.5
+Norma Matthews,North,New England,2023-03,3,1,0.3333
+Angela Blevins,South,Texas,2023-03,1,0,0.0
+Daniel Cortez,North,Nyc Metro,2023-03,3,0,0.0
+Kirk Roman,East,Mid-Atlantic,2023-03,1,0,0.0
+Richard Friedman,East,Florida,2023-03,1,0,0.0
+Troy Gordon,South,Southeast,2023-03,1,0,0.0
+Tyrone Gray,South,Southeast,2023-03,1,0,0.0
+Dorothy Davidson,East,Mid-Atlantic,2023-04,2,2,1.0
+Nicole Silva Dds,North,Nyc Metro,2023-04,1,1,1.0
+Norma Matthews,North,New England,2023-04,1,1,1.0
+Troy Gordon,South,Southeast,2023-04,1,1,1.0
+Devon Castillo,West,California,2023-04,2,1,0.5
+Cassandra Ortiz,West,California,2023-04,3,1,0.3333
+Richard Friedman,East,Florida,2023-04,3,1,0.3333
+Sarah Cruz,East,Florida,2023-04,3,1,0.3333
+Tyrone Gray,South,Southeast,2023-04,3,1,0.3333
+Kirk Roman,East,Mid-Atlantic,2023-04,4,1,0.25
+Angela Blevins,South,Texas,2023-04,1,0,0.0
+Daniel Cortez,North,Nyc Metro,2023-04,1,0,0.0
+Jason Peters,East,Florida,2023-04,1,0,0.0
+Larry Peck,North,Nyc Metro,2023-04,2,0,0.0
+Richard Thomas,South,Texas,2023-04,1,0,0.0
+Stephanie Cruz,North,New England,2023-04,2,0,0.0
+Travis Jacobson,North,New England,2023-04,1,0,0.0
+Daniel Cortez,North,Nyc Metro,2023-05,1,1,1.0
+Richard Thomas,South,Texas,2023-05,2,2,1.0
+Nicole Silva Dds,North,Nyc Metro,2023-05,6,5,0.8333
+Devon Castillo,West,California,2023-05,4,2,0.5
+Sarah Cruz,East,Florida,2023-05,2,1,0.5
+Lindsey Phillips,South,Southeast,2023-05,5,2,0.4
+Jason Peters,East,Florida,2023-05,3,1,0.3333
+Norma Matthews,North,New England,2023-05,3,1,0.3333
+Richard Friedman,East,Florida,2023-05,3,1,0.3333
+Kirk Roman,East,Mid-Atlantic,2023-05,4,1,0.25
+Troy Gordon,South,Southeast,2023-05,4,1,0.25
+Stephanie Cruz,North,New England,2023-05,7,1,0.1429
+Ashlee Rosales,South,Texas,2023-05,3,0,0.0
+Cassandra Ortiz,West,California,2023-05,1,0,0.0
+Dorothy Davidson,East,Mid-Atlantic,2023-05,3,0,0.0
+Larry Peck,North,Nyc Metro,2023-05,2,0,0.0
+Travis Jacobson,North,New England,2023-05,2,0,0.0
+Tyrone Gray,South,Southeast,2023-05,3,0,0.0
+Ashlee Rosales,South,Texas,2023-06,1,1,1.0
+Daniel Cortez,North,Nyc Metro,2023-06,1,1,1.0
+Devon Castillo,West,California,2023-06,2,2,1.0
+Jason Peters,East,Florida,2023-06,1,1,1.0
+Richard Friedman,East,Florida,2023-06,1,1,1.0
+Richard Thomas,South,Texas,2023-06,1,1,1.0
+Stephanie Cruz,North,New England,2023-06,2,2,1.0
+Tyrone Gray,South,Southeast,2023-06,6,4,0.6667
+Angela Blevins,South,Texas,2023-06,2,1,0.5
+Cassandra Ortiz,West,California,2023-06,2,1,0.5
+Dorothy Davidson,East,Mid-Atlantic,2023-06,4,2,0.5
+Nicole Silva Dds,North,Nyc Metro,2023-06,4,2,0.5
+Sarah Cruz,East,Florida,2023-06,2,1,0.5
+Kirk Roman,East,Mid-Atlantic,2023-06,5,1,0.2
+Troy Gordon,South,Southeast,2023-06,5,1,0.2
+Larry Peck,North,Nyc Metro,2023-06,1,0,0.0
+Lindsey Phillips,South,Southeast,2023-06,2,0,0.0
+Luke Miller,East,Mid-Atlantic,2023-06,2,0,0.0
+Travis Jacobson,North,New England,2023-06,1,0,0.0
+Luke Miller,East,Mid-Atlantic,2023-07,4,4,1.0
+Stephanie Cruz,North,New England,2023-07,1,1,1.0
+Sarah Cruz,East,Florida,2023-07,5,4,0.8
+Norma Matthews,North,New England,2023-07,2,1,0.5
+Tyrone Gray,South,Southeast,2023-07,4,2,0.5
+Daniel Cortez,North,Nyc Metro,2023-07,5,2,0.4
+Cassandra Ortiz,West,California,2023-07,3,1,0.3333
+Travis Jacobson,North,New England,2023-07,7,2,0.2857
+Dorothy Davidson,East,Mid-Atlantic,2023-07,4,1,0.25
+Richard Friedman,East,Florida,2023-07,5,1,0.2
+Angela Blevins,South,Texas,2023-07,1,0,0.0
+Devon Castillo,West,California,2023-07,1,0,0.0
+Jason Peters,East,Florida,2023-07,4,0,0.0
+Kirk Roman,East,Mid-Atlantic,2023-07,1,0,0.0
+Lindsey Phillips,South,Southeast,2023-07,3,0,0.0
+Nicole Silva Dds,North,Nyc Metro,2023-07,1,0,0.0
+Richard Thomas,South,Texas,2023-07,3,0,0.0
+Troy Gordon,South,Southeast,2023-07,1,0,0.0
+Daniel Cortez,North,Nyc Metro,2023-08,1,1,1.0
+Devon Castillo,West,California,2023-08,1,1,1.0
+Jason Peters,East,Florida,2023-08,2,2,1.0
+Norma Matthews,North,New England,2023-08,2,2,1.0
+Sarah Cruz,East,Florida,2023-08,2,2,1.0
+Stephanie Cruz,North,New England,2023-08,1,1,1.0
+Travis Jacobson,North,New England,2023-08,3,2,0.6667
+Lindsey Phillips,South,Southeast,2023-08,2,1,0.5
+Richard Friedman,East,Florida,2023-08,2,1,0.5
+Angela Blevins,South,Texas,2023-08,3,1,0.3333
+Kirk Roman,East,Mid-Atlantic,2023-08,3,1,0.3333
+Nicole Silva Dds,North,Nyc Metro,2023-08,3,1,0.3333
+Tyrone Gray,South,Southeast,2023-08,3,1,0.3333
+Cassandra Ortiz,West,California,2023-08,4,1,0.25
+Larry Peck,North,Nyc Metro,2023-08,4,1,0.25
+Richard Thomas,South,Texas,2023-08,5,1,0.2
+Dorothy Davidson,East,Mid-Atlantic,2023-08,3,0,0.0
+Troy Gordon,South,Southeast,2023-08,2,0,0.0
+Cassandra Ortiz,West,California,2023-09,2,2,1.0
+Luke Miller,East,Mid-Atlantic,2023-09,1,1,1.0
+Stephanie Cruz,North,New England,2023-09,1,1,1.0
+Norma Matthews,North,New England,2023-09,3,2,0.6667
+Dorothy Davidson,East,Mid-Atlantic,2023-09,5,3,0.6
+Lindsey Phillips,South,Southeast,2023-09,5,3,0.6
+Richard Friedman,East,Florida,2023-09,4,2,0.5
+Devon Castillo,West,California,2023-09,3,1,0.3333
+Jason Peters,East,Florida,2023-09,3,1,0.3333
+Richard Thomas,South,Texas,2023-09,3,1,0.3333
+Troy Gordon,South,Southeast,2023-09,3,1,0.3333
+Sarah Cruz,East,Florida,2023-09,7,2,0.2857
+Nicole Silva Dds,North,Nyc Metro,2023-09,4,1,0.25
+Angela Blevins,South,Texas,2023-09,2,0,0.0
+Ashlee Rosales,South,Texas,2023-09,2,0,0.0
+Daniel Cortez,North,Nyc Metro,2023-09,1,0,0.0
+Kirk Roman,East,Mid-Atlantic,2023-09,1,0,0.0
+Larry Peck,North,Nyc Metro,2023-09,3,0,0.0
+Travis Jacobson,North,New England,2023-09,3,0,0.0
+Tyrone Gray,South,Southeast,2023-09,2,0,0.0
+Dorothy Davidson,East,Mid-Atlantic,2023-10,2,2,1.0
+Travis Jacobson,North,New England,2023-10,3,2,0.6667
+Lindsey Phillips,South,Southeast,2023-10,2,1,0.5
+Richard Thomas,South,Texas,2023-10,2,1,0.5
+Tyrone Gray,South,Southeast,2023-10,5,2,0.4
+Cassandra Ortiz,West,California,2023-10,8,3,0.375
+Ashlee Rosales,South,Texas,2023-10,3,1,0.3333
+Luke Miller,East,Mid-Atlantic,2023-10,4,1,0.25
+Devon Castillo,West,California,2023-10,5,1,0.2
+Angela Blevins,South,Texas,2023-10,2,0,0.0
+Daniel Cortez,North,Nyc Metro,2023-10,2,0,0.0
+Kirk Roman,East,Mid-Atlantic,2023-10,2,0,0.0
+Larry Peck,North,Nyc Metro,2023-10,1,0,0.0
+Nicole Silva Dds,North,Nyc Metro,2023-10,2,0,0.0
+Norma Matthews,North,New England,2023-10,1,0,0.0
+Richard Friedman,East,Florida,2023-10,2,0,0.0
+Sarah Cruz,East,Florida,2023-10,3,0,0.0
+Stephanie Cruz,North,New England,2023-10,1,0,0.0
+Troy Gordon,South,Southeast,2023-10,2,0,0.0
+Devon Castillo,West,California,2023-11,1,1,1.0
+Larry Peck,North,Nyc Metro,2023-11,2,2,1.0
+Norma Matthews,North,New England,2023-11,2,2,1.0
+Troy Gordon,South,Southeast,2023-11,2,2,1.0
+Lindsey Phillips,South,Southeast,2023-11,4,3,0.75
+Kirk Roman,East,Mid-Atlantic,2023-11,3,2,0.6667
+Richard Friedman,East,Florida,2023-11,3,2,0.6667
+Cassandra Ortiz,West,California,2023-11,4,2,0.5
+Sarah Cruz,East,Florida,2023-11,2,1,0.5
+Travis Jacobson,North,New England,2023-11,2,1,0.5
+Dorothy Davidson,East,Mid-Atlantic,2023-11,3,1,0.3333
+Nicole Silva Dds,North,Nyc Metro,2023-11,3,1,0.3333
+Daniel Cortez,North,Nyc Metro,2023-11,4,1,0.25
+Jason Peters,East,Florida,2023-11,4,1,0.25
+Ashlee Rosales,South,Texas,2023-11,1,0,0.0
+Luke Miller,East,Mid-Atlantic,2023-11,3,0,0.0
+Richard Thomas,South,Texas,2023-11,4,0,0.0
+Stephanie Cruz,North,New England,2023-11,1,0,0.0
+Tyrone Gray,South,Southeast,2023-11,1,0,0.0
+Daniel Cortez,North,Nyc Metro,2023-12,1,1,1.0
+Dorothy Davidson,East,Mid-Atlantic,2023-12,2,2,1.0
+Jason Peters,East,Florida,2023-12,1,1,1.0
+Larry Peck,North,Nyc Metro,2023-12,2,2,1.0
+Nicole Silva Dds,North,Nyc Metro,2023-12,3,2,0.6667
+Richard Friedman,East,Florida,2023-12,5,3,0.6
+Richard Thomas,South,Texas,2023-12,4,2,0.5
+Sarah Cruz,East,Florida,2023-12,7,3,0.4286
+Ashlee Rosales,South,Texas,2023-12,3,1,0.3333
+Devon Castillo,West,California,2023-12,3,1,0.3333
+Kirk Roman,East,Mid-Atlantic,2023-12,3,1,0.3333
+Troy Gordon,South,Southeast,2023-12,3,1,0.3333
+Tyrone Gray,South,Southeast,2023-12,7,2,0.2857
+Lindsey Phillips,South,Southeast,2023-12,5,1,0.2
+Cassandra Ortiz,West,California,2023-12,1,0,0.0
+Luke Miller,East,Mid-Atlantic,2023-12,2,0,0.0
+Norma Matthews,North,New England,2023-12,1,0,0.0
+Stephanie Cruz,North,New England,2023-12,1,0,0.0
+Travis Jacobson,North,New England,2023-12,2,0,0.0
+Richard Thomas,South,Texas,2024-01,8,5,0.625
+Angela Blevins,South,Texas,2024-01,4,2,0.5
+Ashlee Rosales,South,Texas,2024-01,2,1,0.5
+Devon Castillo,West,California,2024-01,2,1,0.5
+Travis Jacobson,North,New England,2024-01,6,3,0.5
+Cassandra Ortiz,West,California,2024-01,5,2,0.4
+Dorothy Davidson,East,Mid-Atlantic,2024-01,3,1,0.3333
+Norma Matthews,North,New England,2024-01,3,1,0.3333
+Jason Peters,East,Florida,2024-01,7,2,0.2857
+Daniel Cortez,North,Nyc Metro,2024-01,2,0,0.0
+Kirk Roman,East,Mid-Atlantic,2024-01,3,0,0.0
+Lindsey Phillips,South,Southeast,2024-01,2,0,0.0
+Luke Miller,East,Mid-Atlantic,2024-01,1,0,0.0
+Richard Friedman,East,Florida,2024-01,1,0,0.0
+Stephanie Cruz,North,New England,2024-01,3,0,0.0
+Tyrone Gray,South,Southeast,2024-01,2,0,0.0
+Devon Castillo,West,California,2024-02,2,2,1.0
+Kirk Roman,East,Mid-Atlantic,2024-02,1,1,1.0
+Cassandra Ortiz,West,California,2024-02,5,3,0.6
+Norma Matthews,North,New England,2024-02,5,3,0.6
+Nicole Silva Dds,North,Nyc Metro,2024-02,4,2,0.5
+Richard Friedman,East,Florida,2024-02,2,1,0.5
+Sarah Cruz,East,Florida,2024-02,5,2,0.4
+Daniel Cortez,North,Nyc Metro,2024-02,3,1,0.3333
+Luke Miller,East,Mid-Atlantic,2024-02,3,1,0.3333
+Tyrone Gray,South,Southeast,2024-02,3,1,0.3333
+Angela Blevins,South,Texas,2024-02,1,0,0.0
+Ashlee Rosales,South,Texas,2024-02,1,0,0.0
+Dorothy Davidson,East,Mid-Atlantic,2024-02,1,0,0.0
+Jason Peters,East,Florida,2024-02,2,0,0.0
+Larry Peck,North,Nyc Metro,2024-02,2,0,0.0
+Lindsey Phillips,South,Southeast,2024-02,2,0,0.0
+Richard Thomas,South,Texas,2024-02,1,0,0.0
+Stephanie Cruz,North,New England,2024-02,1,0,0.0
+Travis Jacobson,North,New England,2024-02,2,0,0.0
+Troy Gordon,South,Southeast,2024-02,3,0,0.0
+Sarah Cruz,East,Florida,2024-03,1,1,1.0
+Travis Jacobson,North,New England,2024-03,2,2,1.0
+Troy Gordon,South,Southeast,2024-03,3,3,1.0
+Richard Thomas,South,Texas,2024-03,4,3,0.75
+Lindsey Phillips,South,Southeast,2024-03,3,2,0.6667
+Ashlee Rosales,South,Texas,2024-03,2,1,0.5
+Jason Peters,East,Florida,2024-03,2,1,0.5
+Larry Peck,North,Nyc Metro,2024-03,4,2,0.5
+Richard Friedman,East,Florida,2024-03,4,2,0.5
+Tyrone Gray,South,Southeast,2024-03,2,1,0.5
+Daniel Cortez,North,Nyc Metro,2024-03,4,1,0.25
+Nicole Silva Dds,North,Nyc Metro,2024-03,4,1,0.25
+Norma Matthews,North,New England,2024-03,4,1,0.25
+Angela Blevins,South,Texas,2024-03,2,0,0.0
+Cassandra Ortiz,West,California,2024-03,1,0,0.0
+Stephanie Cruz,North,New England,2024-03,5,0,0.0
+Daniel Cortez,North,Nyc Metro,2024-04,2,2,1.0
+Devon Castillo,West,California,2024-04,4,3,0.75
+Nicole Silva Dds,North,Nyc Metro,2024-04,3,2,0.6667
+Norma Matthews,North,New England,2024-04,3,2,0.6667
+Ashlee Rosales,South,Texas,2024-04,2,1,0.5
+Dorothy Davidson,East,Mid-Atlantic,2024-04,2,1,0.5
+Richard Friedman,East,Florida,2024-04,2,1,0.5
+Troy Gordon,South,Southeast,2024-04,2,1,0.5
+Kirk Roman,East,Mid-Atlantic,2024-04,5,2,0.4
+Cassandra Ortiz,West,California,2024-04,8,3,0.375
+Larry Peck,North,Nyc Metro,2024-04,6,2,0.3333
+Travis Jacobson,North,New England,2024-04,3,1,0.3333
+Jason Peters,East,Florida,2024-04,5,1,0.2
+Angela Blevins,South,Texas,2024-04,1,0,0.0
+Luke Miller,East,Mid-Atlantic,2024-04,2,0,0.0
+Richard Thomas,South,Texas,2024-04,3,0,0.0
+Sarah Cruz,East,Florida,2024-04,3,0,0.0
+Stephanie Cruz,North,New England,2024-04,3,0,0.0
+Tyrone Gray,South,Southeast,2024-04,2,0,0.0
+Kirk Roman,East,Mid-Atlantic,2024-05,1,1,1.0
+Larry Peck,North,Nyc Metro,2024-05,2,2,1.0
+Norma Matthews,North,New England,2024-05,2,2,1.0
+Richard Thomas,South,Texas,2024-05,1,1,1.0
+Lindsey Phillips,South,Southeast,2024-05,3,2,0.6667
+Luke Miller,East,Mid-Atlantic,2024-05,5,3,0.6
+Daniel Cortez,North,Nyc Metro,2024-05,4,2,0.5
+Stephanie Cruz,North,New England,2024-05,2,1,0.5
+Dorothy Davidson,East,Mid-Atlantic,2024-05,3,1,0.3333
+Ashlee Rosales,South,Texas,2024-05,4,1,0.25
+Sarah Cruz,East,Florida,2024-05,4,1,0.25
+Travis Jacobson,North,New England,2024-05,4,1,0.25
+Tyrone Gray,South,Southeast,2024-05,4,1,0.25
+Angela Blevins,South,Texas,2024-05,1,0,0.0
+Nicole Silva Dds,North,Nyc Metro,2024-05,1,0,0.0
+Richard Friedman,East,Florida,2024-05,5,0,0.0
+Troy Gordon,South,Southeast,2024-05,2,0,0.0
+Jason Peters,East,Florida,2024-06,2,2,1.0
+Luke Miller,East,Mid-Atlantic,2024-06,1,1,1.0
+Travis Jacobson,North,New England,2024-06,1,1,1.0
+Nicole Silva Dds,North,Nyc Metro,2024-06,3,2,0.6667
+Angela Blevins,South,Texas,2024-06,4,2,0.5
+Richard Thomas,South,Texas,2024-06,2,1,0.5
+Troy Gordon,South,Southeast,2024-06,4,2,0.5
+Tyrone Gray,South,Southeast,2024-06,2,1,0.5
+Cassandra Ortiz,West,California,2024-06,3,1,0.3333
+Sarah Cruz,East,Florida,2024-06,3,1,0.3333
+Dorothy Davidson,East,Mid-Atlantic,2024-06,4,1,0.25
+Norma Matthews,North,New England,2024-06,4,1,0.25
+Ashlee Rosales,South,Texas,2024-06,2,0,0.0
+Kirk Roman,East,Mid-Atlantic,2024-06,2,0,0.0
+Larry Peck,North,Nyc Metro,2024-06,2,0,0.0
+Lindsey Phillips,South,Southeast,2024-06,1,0,0.0
+Richard Friedman,East,Florida,2024-06,2,0,0.0
+Stephanie Cruz,North,New England,2024-06,3,0,0.0
+Travis Jacobson,North,New England,2024-07,1,1,1.0
+Ashlee Rosales,South,Texas,2024-07,3,2,0.6667
+Richard Friedman,East,Florida,2024-07,6,4,0.6667
+Richard Thomas,South,Texas,2024-07,3,2,0.6667
+Angela Blevins,South,Texas,2024-07,2,1,0.5
+Stephanie Cruz,North,New England,2024-07,2,1,0.5
+Jason Peters,East,Florida,2024-07,5,2,0.4
+Luke Miller,East,Mid-Atlantic,2024-07,5,2,0.4
+Troy Gordon,South,Southeast,2024-07,5,2,0.4
+Lindsey Phillips,South,Southeast,2024-07,3,1,0.3333
+Tyrone Gray,South,Southeast,2024-07,3,1,0.3333
+Cassandra Ortiz,West,California,2024-07,4,1,0.25
+Daniel Cortez,North,Nyc Metro,2024-07,2,0,0.0
+Dorothy Davidson,East,Mid-Atlantic,2024-07,4,0,0.0
+Kirk Roman,East,Mid-Atlantic,2024-07,1,0,0.0
+Larry Peck,North,Nyc Metro,2024-07,3,0,0.0
+Nicole Silva Dds,North,Nyc Metro,2024-07,3,0,0.0
+Norma Matthews,North,New England,2024-07,3,0,0.0
+Sarah Cruz,East,Florida,2024-07,2,0,0.0
+Ashlee Rosales,South,Texas,2024-08,1,1,1.0
+Kirk Roman,East,Mid-Atlantic,2024-08,2,2,1.0
+Richard Thomas,South,Texas,2024-08,1,1,1.0
+Stephanie Cruz,North,New England,2024-08,1,1,1.0
+Tyrone Gray,South,Southeast,2024-08,3,2,0.6667
+Devon Castillo,West,California,2024-08,2,1,0.5
+Lindsey Phillips,South,Southeast,2024-08,4,2,0.5
+Travis Jacobson,North,New England,2024-08,4,2,0.5
+Dorothy Davidson,East,Mid-Atlantic,2024-08,3,1,0.3333
+Jason Peters,East,Florida,2024-08,6,2,0.3333
+Larry Peck,North,Nyc Metro,2024-08,3,1,0.3333
+Richard Friedman,East,Florida,2024-08,4,1,0.25
+Troy Gordon,South,Southeast,2024-08,5,1,0.2
+Angela Blevins,South,Texas,2024-08,4,0,0.0
+Cassandra Ortiz,West,California,2024-08,4,0,0.0
+Daniel Cortez,North,Nyc Metro,2024-08,3,0,0.0
+Nicole Silva Dds,North,Nyc Metro,2024-08,2,0,0.0
+Norma Matthews,North,New England,2024-08,3,0,0.0
+Sarah Cruz,East,Florida,2024-08,3,0,0.0
+Larry Peck,North,Nyc Metro,2024-09,3,3,1.0
+Lindsey Phillips,South,Southeast,2024-09,2,2,1.0
+Luke Miller,East,Mid-Atlantic,2024-09,1,1,1.0
+Tyrone Gray,South,Southeast,2024-09,1,1,1.0
+Stephanie Cruz,North,New England,2024-09,4,3,0.75
+Devon Castillo,West,California,2024-09,2,1,0.5
+Nicole Silva Dds,North,Nyc Metro,2024-09,2,1,0.5
+Sarah Cruz,East,Florida,2024-09,2,1,0.5
+Troy Gordon,South,Southeast,2024-09,2,1,0.5
+Cassandra Ortiz,West,California,2024-09,3,1,0.3333
+Richard Friedman,East,Florida,2024-09,3,1,0.3333
+Angela Blevins,South,Texas,2024-09,4,0,0.0
+Ashlee Rosales,South,Texas,2024-09,1,0,0.0
+Kirk Roman,East,Mid-Atlantic,2024-09,4,0,0.0
+Norma Matthews,North,New England,2024-09,4,0,0.0
+Richard Thomas,South,Texas,2024-09,1,0,0.0
+Travis Jacobson,North,New England,2024-09,3,0,0.0
+Angela Blevins,South,Texas,2024-10,3,3,1.0
+Dorothy Davidson,East,Mid-Atlantic,2024-10,1,1,1.0
+Richard Friedman,East,Florida,2024-10,3,3,1.0
+Richard Thomas,South,Texas,2024-10,2,2,1.0
+Lindsey Phillips,South,Southeast,2024-10,4,3,0.75
+Devon Castillo,West,California,2024-10,3,2,0.6667
+Nicole Silva Dds,North,Nyc Metro,2024-10,3,2,0.6667
+Cassandra Ortiz,West,California,2024-10,4,2,0.5
+Kirk Roman,East,Mid-Atlantic,2024-10,2,1,0.5
+Luke Miller,East,Mid-Atlantic,2024-10,2,1,0.5
+Troy Gordon,South,Southeast,2024-10,5,2,0.4
+Daniel Cortez,North,Nyc Metro,2024-10,3,1,0.3333
+Sarah Cruz,East,Florida,2024-10,3,1,0.3333
+Travis Jacobson,North,New England,2024-10,3,1,0.3333
+Stephanie Cruz,North,New England,2024-10,8,1,0.125
+Ashlee Rosales,South,Texas,2024-10,2,0,0.0
+Jason Peters,East,Florida,2024-10,2,0,0.0
+Larry Peck,North,Nyc Metro,2024-10,1,0,0.0
+Norma Matthews,North,New England,2024-10,3,0,0.0
+Tyrone Gray,South,Southeast,2024-10,1,0,0.0
+Cassandra Ortiz,West,California,2024-11,1,1,1.0
+Jason Peters,East,Florida,2024-11,3,3,1.0
+Richard Thomas,South,Texas,2024-11,1,1,1.0
+Travis Jacobson,North,New England,2024-11,3,3,1.0
+Daniel Cortez,North,Nyc Metro,2024-11,3,2,0.6667
+Devon Castillo,West,California,2024-11,2,1,0.5
+Richard Friedman,East,Florida,2024-11,2,1,0.5
+Sarah Cruz,East,Florida,2024-11,2,1,0.5
+Kirk Roman,East,Mid-Atlantic,2024-11,5,2,0.4
+Luke Miller,East,Mid-Atlantic,2024-11,5,2,0.4
+Stephanie Cruz,North,New England,2024-11,3,1,0.3333
+Tyrone Gray,South,Southeast,2024-11,3,1,0.3333
+Angela Blevins,South,Texas,2024-11,5,1,0.2
+Larry Peck,North,Nyc Metro,2024-11,5,1,0.2
+Nicole Silva Dds,North,Nyc Metro,2024-11,5,1,0.2
+Ashlee Rosales,South,Texas,2024-11,2,0,0.0
+Dorothy Davidson,East,Mid-Atlantic,2024-11,3,0,0.0
+Lindsey Phillips,South,Southeast,2024-11,2,0,0.0
+Norma Matthews,North,New England,2024-11,1,0,0.0
+Troy Gordon,South,Southeast,2024-11,3,0,0.0
+Dorothy Davidson,East,Mid-Atlantic,2024-12,1,1,1.0
+Stephanie Cruz,North,New England,2024-12,1,1,1.0
+Tyrone Gray,South,Southeast,2024-12,1,1,1.0
+Travis Jacobson,North,New England,2024-12,7,5,0.7143
+Ashlee Rosales,South,Texas,2024-12,2,1,0.5
+Jason Peters,East,Florida,2024-12,2,1,0.5
+Larry Peck,North,Nyc Metro,2024-12,4,2,0.5
+Lindsey Phillips,South,Southeast,2024-12,2,1,0.5
+Nicole Silva Dds,North,Nyc Metro,2024-12,2,1,0.5
+Norma Matthews,North,New England,2024-12,4,2,0.5
+Troy Gordon,South,Southeast,2024-12,2,1,0.5
+Cassandra Ortiz,West,California,2024-12,3,1,0.3333
+Daniel Cortez,North,Nyc Metro,2024-12,6,2,0.3333
+Richard Friedman,East,Florida,2024-12,3,1,0.3333
+Richard Thomas,South,Texas,2024-12,4,1,0.25
+Angela Blevins,South,Texas,2024-12,2,0,0.0
+Devon Castillo,West,California,2024-12,1,0,0.0
+Luke Miller,East,Mid-Atlantic,2024-12,3,0,0.0
+Sarah Cruz,East,Florida,2024-12,2,0,0.0

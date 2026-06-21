@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_price,cost_price,margin_pct
+P001,Enterprise Suite,Software,45000,12000,73.33
+P002,Professional Plan,Software,12000,3500,70.83
+P003,Starter Pack,Software,3600,900,75.0
+P004,Implementation Svc,Services,25000,14000,44.0
+P005,Support & Training,Services,8000,3000,62.5

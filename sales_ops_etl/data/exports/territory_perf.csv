@@ -1,0 +1,8 @@
+territory,region,total_opps,won_opps,win_rate,total_revenue,avg_deal_size,avg_cycle_days
+Florida,East,190,73,0.3842,1318507.64,18061.75,61.8
+Southeast,South,184,67,0.3641,1315699.83,19637.31,66.8
+Mid-Atlantic,East,158,58,0.3671,1075713.99,18546.79,70.0
+New England,North,178,68,0.382,1065838.74,15674.1,63.9
+California,West,113,49,0.4336,1061372.68,21660.67,62.1
+Nyc Metro,North,166,63,0.3795,1030556.25,16358.04,69.1
+Texas,South,140,48,0.3429,1006958.98,20978.31,66.7

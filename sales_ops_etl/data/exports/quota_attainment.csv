@@ -1,0 +1,481 @@
+rep_name,region,territory,month_year,actual_revenue,quota_amount,quota_attainment,attainment_band
+Ashlee Rosales,South,Texas,2024-12,50283.78,155123.75,0.3242,<50%
+Tyrone Gray,South,Southeast,2024-12,29094.03,96489.83,0.3015,<50%
+Jason Peters,East,Florida,2024-12,45485.05,157482.32,0.2888,<50%
+Travis Jacobson,North,New England,2024-12,41011.06,153887.89,0.2665,<50%
+Cassandra Ortiz,West,California,2024-12,39031.76,147867.32,0.264,<50%
+Lindsey Phillips,South,Southeast,2024-12,21432.49,102912.04,0.2083,<50%
+Stephanie Cruz,North,New England,2024-12,10673.25,81721.6,0.1306,<50%
+Larry Peck,North,Nyc Metro,2024-12,19214.34,148830.07,0.1291,<50%
+Daniel Cortez,North,Nyc Metro,2024-12,15030.43,119002.33,0.1263,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-12,12954.15,114763.99,0.1129,<50%
+Richard Friedman,East,Florida,2024-12,7529.24,83690.82,0.09,<50%
+Norma Matthews,North,New England,2024-12,11508.48,144028.02,0.0799,<50%
+Troy Gordon,South,Southeast,2024-12,4159.28,119003.07,0.035,<50%
+Richard Thomas,South,Texas,2024-12,4070.92,116971.6,0.0348,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-12,3668.51,120261.05,0.0305,<50%
+Angela Blevins,South,Texas,2024-12,0.0,101974.71,0.0,<50%
+Devon Castillo,West,California,2024-12,0.0,81967.79,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2024-12,0.0,150626.69,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2024-12,0.0,115380.98,0.0,<50%
+Sarah Cruz,East,Florida,2024-12,0.0,149834.65,0.0,<50%
+Travis Jacobson,North,New England,2024-11,91886.14,143422.02,0.6407,50-80%
+Richard Friedman,East,Florida,2024-11,51327.42,83620.9,0.6138,50-80%
+Kirk Roman,East,Mid-Atlantic,2024-11,65099.44,157196.79,0.4141,<50%
+Stephanie Cruz,North,New England,2024-11,29561.92,78128.13,0.3784,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-11,40138.09,114383.64,0.3509,<50%
+Daniel Cortez,North,Nyc Metro,2024-11,36015.19,118684.45,0.3035,<50%
+Jason Peters,East,Florida,2024-11,45413.03,153376.11,0.2961,<50%
+Richard Thomas,South,Texas,2024-11,29607.03,120236.0,0.2462,<50%
+Luke Miller,East,Mid-Atlantic,2024-11,19083.73,118620.58,0.1609,<50%
+Cassandra Ortiz,West,California,2024-11,23331.44,156320.98,0.1493,<50%
+Devon Castillo,West,California,2024-11,8480.02,80705.32,0.1051,<50%
+Tyrone Gray,South,Southeast,2024-11,4153.02,101672.21,0.0408,<50%
+Angela Blevins,South,Texas,2024-11,3231.87,101520.37,0.0318,<50%
+Larry Peck,North,Nyc Metro,2024-11,4266.31,150424.63,0.0284,<50%
+Sarah Cruz,East,Florida,2024-11,3418.55,152947.35,0.0224,<50%
+Ashlee Rosales,South,Texas,2024-11,0.0,153479.79,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-11,0.0,125487.51,0.0,<50%
+Lindsey Phillips,South,Southeast,2024-11,0.0,99859.26,0.0,<50%
+Norma Matthews,North,New England,2024-11,0.0,155375.81,0.0,<50%
+Troy Gordon,South,Southeast,2024-11,0.0,122780.6,0.0,<50%
+Devon Castillo,West,California,2024-10,96809.98,77404.23,1.2507,>120%
+Richard Friedman,East,Florida,2024-10,50321.84,77961.29,0.6455,50-80%
+Angela Blevins,South,Texas,2024-10,44927.93,102883.42,0.4367,<50%
+Daniel Cortez,North,Nyc Metro,2024-10,41855.83,122675.94,0.3412,<50%
+Richard Thomas,South,Texas,2024-10,31086.89,122572.21,0.2536,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-10,26029.08,124733.49,0.2087,<50%
+Travis Jacobson,North,New England,2024-10,29534.93,144964.87,0.2037,<50%
+Lindsey Phillips,South,Southeast,2024-10,14615.6,98032.6,0.1491,<50%
+Troy Gordon,South,Southeast,2024-10,16933.08,125373.84,0.1351,<50%
+Luke Miller,East,Mid-Atlantic,2024-10,7726.22,123028.68,0.0628,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-10,7608.08,123091.38,0.0618,<50%
+Sarah Cruz,East,Florida,2024-10,8096.14,150836.86,0.0537,<50%
+Cassandra Ortiz,West,California,2024-10,7120.99,146717.02,0.0485,<50%
+Stephanie Cruz,North,New England,2024-10,3096.87,77370.09,0.04,<50%
+Kirk Roman,East,Mid-Atlantic,2024-10,3126.02,143865.38,0.0217,<50%
+Ashlee Rosales,South,Texas,2024-10,0.0,150079.12,0.0,<50%
+Jason Peters,East,Florida,2024-10,0.0,154957.47,0.0,<50%
+Larry Peck,North,Nyc Metro,2024-10,0.0,153214.35,0.0,<50%
+Norma Matthews,North,New England,2024-10,0.0,151644.84,0.0,<50%
+Tyrone Gray,South,Southeast,2024-10,0.0,102616.79,0.0,<50%
+Stephanie Cruz,North,New England,2024-09,32585.58,78294.07,0.4162,<50%
+Troy Gordon,South,Southeast,2024-09,43194.0,122268.21,0.3533,<50%
+Larry Peck,North,Nyc Metro,2024-09,37919.95,149818.52,0.2531,<50%
+Tyrone Gray,South,Southeast,2024-09,24955.98,101364.6,0.2462,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-09,22901.87,123935.38,0.1848,<50%
+Lindsey Phillips,South,Southeast,2024-09,19307.77,104910.2,0.184,<50%
+Devon Castillo,West,California,2024-09,8817.77,80823.78,0.1091,<50%
+Cassandra Ortiz,West,California,2024-09,14031.46,142796.73,0.0983,<50%
+Sarah Cruz,East,Florida,2024-09,12545.38,145103.04,0.0865,<50%
+Luke Miller,East,Mid-Atlantic,2024-09,8969.0,119915.75,0.0748,<50%
+Richard Friedman,East,Florida,2024-09,4249.72,77345.51,0.0549,<50%
+Angela Blevins,South,Texas,2024-09,0.0,100444.25,0.0,<50%
+Ashlee Rosales,South,Texas,2024-09,0.0,148841.19,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2024-09,0.0,124598.08,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-09,0.0,120502.01,0.0,<50%
+Jason Peters,East,Florida,2024-09,0.0,152976.44,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2024-09,0.0,148230.16,0.0,<50%
+Norma Matthews,North,New England,2024-09,0.0,154224.79,0.0,<50%
+Richard Thomas,South,Texas,2024-09,0.0,122069.21,0.0,<50%
+Travis Jacobson,North,New England,2024-09,0.0,157229.17,0.0,<50%
+Stephanie Cruz,North,New England,2024-08,41160.3,79789.31,0.5159,50-80%
+Dorothy Davidson,East,Mid-Atlantic,2024-08,47270.32,125462.02,0.3768,<50%
+Lindsey Phillips,South,Southeast,2024-08,33675.840000000004,98714.67,0.3411,<50%
+Tyrone Gray,South,Southeast,2024-08,32117.92,96385.22,0.3332,<50%
+Troy Gordon,South,Southeast,2024-08,41947.63,125958.14,0.333,<50%
+Richard Friedman,East,Florida,2024-08,26199.44,80323.52,0.3262,<50%
+Travis Jacobson,North,New England,2024-08,32122.22,147222.07,0.2182,<50%
+Kirk Roman,East,Mid-Atlantic,2024-08,30129.43,150418.53,0.2003,<50%
+Ashlee Rosales,South,Texas,2024-08,26653.32,147059.13,0.1812,<50%
+Richard Thomas,South,Texas,2024-08,12087.41,122578.25,0.0986,<50%
+Jason Peters,East,Florida,2024-08,12263.869999999999,143845.73,0.0853,<50%
+Larry Peck,North,Nyc Metro,2024-08,8310.0,154750.34,0.0537,<50%
+Devon Castillo,West,California,2024-08,4220.51,81377.4,0.0519,<50%
+Angela Blevins,South,Texas,2024-08,0.0,97051.34,0.0,<50%
+Cassandra Ortiz,West,California,2024-08,0.0,145822.81,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2024-08,0.0,119621.61,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2024-08,0.0,121032.35,0.0,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-08,0.0,115903.27,0.0,<50%
+Norma Matthews,North,New England,2024-08,0.0,157119.9,0.0,<50%
+Sarah Cruz,East,Florida,2024-08,0.0,142643.68,0.0,<50%
+Richard Friedman,East,Florida,2024-07,117558.54000000001,77138.94,1.524,>120%
+Richard Thomas,South,Texas,2024-07,67437.09,123417.47,0.5464,50-80%
+Stephanie Cruz,North,New England,2024-07,42693.3,82678.51,0.5164,50-80%
+Tyrone Gray,South,Southeast,2024-07,39100.93,96328.1,0.4059,<50%
+Luke Miller,East,Mid-Atlantic,2024-07,45116.79,123025.6,0.3667,<50%
+Ashlee Rosales,South,Texas,2024-07,39246.75,154983.43,0.2532,<50%
+Troy Gordon,South,Southeast,2024-07,25691.52,121637.53,0.2112,<50%
+Jason Peters,East,Florida,2024-07,25454.519999999997,143549.03,0.1773,<50%
+Angela Blevins,South,Texas,2024-07,12432.98,99461.89,0.125,<50%
+Lindsey Phillips,South,Southeast,2024-07,9367.91,96533.05,0.097,<50%
+Cassandra Ortiz,West,California,2024-07,13229.89,149168.66,0.0887,<50%
+Travis Jacobson,North,New England,2024-07,3556.08,143771.67,0.0247,<50%
+Daniel Cortez,North,Nyc Metro,2024-07,0.0,122582.39,0.0,<50%
+Devon Castillo,West,California,2024-07,0.0,81910.52,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-07,0.0,115021.82,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2024-07,0.0,142860.85,0.0,<50%
+Larry Peck,North,Nyc Metro,2024-07,0.0,152680.02,0.0,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-07,0.0,118284.53,0.0,<50%
+Norma Matthews,North,New England,2024-07,0.0,153836.47,0.0,<50%
+Sarah Cruz,East,Florida,2024-07,0.0,142564.19,0.0,<50%
+Jason Peters,East,Florida,2024-06,76972.76999999999,150511.34,0.5114,50-80%
+Troy Gordon,South,Southeast,2024-06,52789.880000000005,121011.65,0.4362,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-06,52575.26,124570.87,0.4221,<50%
+Angela Blevins,South,Texas,2024-06,25502.51,102002.95,0.25,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-06,27551.76,121726.97,0.2263,<50%
+Richard Thomas,South,Texas,2024-06,23984.58,117414.43,0.2043,<50%
+Norma Matthews,North,New England,2024-06,23160.88,156939.71,0.1476,<50%
+Cassandra Ortiz,West,California,2024-06,14089.78,156543.72,0.09,<50%
+Tyrone Gray,South,Southeast,2024-06,9007.97,103336.83,0.0872,<50%
+Sarah Cruz,East,Florida,2024-06,9425.96,151631.8,0.0622,<50%
+Travis Jacobson,North,New England,2024-06,9038.08,156654.64,0.0577,<50%
+Luke Miller,East,Mid-Atlantic,2024-06,4047.27,116430.71,0.0348,<50%
+Ashlee Rosales,South,Texas,2024-06,0.0,146380.35,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2024-06,0.0,124241.45,0.0,<50%
+Devon Castillo,West,California,2024-06,0.0,77550.16,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2024-06,0.0,145207.62,0.0,<50%
+Larry Peck,North,Nyc Metro,2024-06,0.0,151672.43,0.0,<50%
+Lindsey Phillips,South,Southeast,2024-06,0.0,95402.82,0.0,<50%
+Richard Friedman,East,Florida,2024-06,0.0,82263.05,0.0,<50%
+Stephanie Cruz,North,New England,2024-06,0.0,76052.7,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2024-05,81935.62,115451.6,0.7097,50-80%
+Daniel Cortez,North,Nyc Metro,2024-05,54087.36,125060.83,0.4325,<50%
+Norma Matthews,North,New England,2024-05,62314.28,154484.8,0.4034,<50%
+Lindsey Phillips,South,Southeast,2024-05,22515.440000000002,100717.65,0.2236,<50%
+Ashlee Rosales,South,Texas,2024-05,28498.73,150598.99,0.1892,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-05,13812.59,121741.92,0.1135,<50%
+Stephanie Cruz,North,New England,2024-05,8646.36,82153.75,0.1052,<50%
+Tyrone Gray,South,Southeast,2024-05,10209.23,103344.6,0.0988,<50%
+Larry Peck,North,Nyc Metro,2024-05,14220.630000000001,151365.59,0.0939,<50%
+Travis Jacobson,North,New England,2024-05,12620.37,154593.7,0.0816,<50%
+Richard Thomas,South,Texas,2024-05,8012.2,118204.05,0.0678,<50%
+Sarah Cruz,East,Florida,2024-05,8069.04,156333.87,0.0516,<50%
+Kirk Roman,East,Mid-Atlantic,2024-05,3474.8,147599.35,0.0235,<50%
+Angela Blevins,South,Texas,2024-05,0.0,104204.51,0.0,<50%
+Cassandra Ortiz,West,California,2024-05,0.0,149440.39,0.0,<50%
+Devon Castillo,West,California,2024-05,0.0,77363.82,0.0,<50%
+Jason Peters,East,Florida,2024-05,0.0,144921.24,0.0,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-05,0.0,114217.57,0.0,<50%
+Richard Friedman,East,Florida,2024-05,0.0,80003.46,0.0,<50%
+Troy Gordon,South,Southeast,2024-05,0.0,124464.18,0.0,<50%
+Devon Castillo,West,California,2024-04,49944.63,80002.61,0.6243,50-80%
+Cassandra Ortiz,West,California,2024-04,74837.89,142626.47,0.5247,50-80%
+Larry Peck,North,Nyc Metro,2024-04,71154.38,149791.51,0.475,<50%
+Ashlee Rosales,South,Texas,2024-04,50466.2,155854.79,0.3238,<50%
+Norma Matthews,North,New England,2024-04,33946.729999999996,156694.02,0.2166,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-04,22651.7,114564.59,0.1977,<50%
+Daniel Cortez,North,Nyc Metro,2024-04,21688.66,122219.69,0.1775,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-04,10937.08,117706.18,0.0929,<50%
+Kirk Roman,East,Mid-Atlantic,2024-04,11456.27,156507.73,0.0732,<50%
+Troy Gordon,South,Southeast,2024-04,8162.57,123345.9,0.0662,<50%
+Jason Peters,East,Florida,2024-04,8770.28,146719.67,0.0598,<50%
+Richard Friedman,East,Florida,2024-04,3705.94,82770.22,0.0448,<50%
+Travis Jacobson,North,New England,2024-04,3387.81,142649.23,0.0237,<50%
+Angela Blevins,South,Texas,2024-04,0.0,100277.92,0.0,<50%
+Lindsey Phillips,South,Southeast,2024-04,0.0,96208.66,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2024-04,0.0,123932.9,0.0,<50%
+Richard Thomas,South,Texas,2024-04,0.0,121146.59,0.0,<50%
+Sarah Cruz,East,Florida,2024-04,0.0,144505.89,0.0,<50%
+Stephanie Cruz,North,New England,2024-04,0.0,83757.09,0.0,<50%
+Tyrone Gray,South,Southeast,2024-04,0.0,98773.06,0.0,<50%
+Richard Thomas,South,Texas,2024-03,99918.16,120399.46,0.8299,80-100%
+Troy Gordon,South,Southeast,2024-03,90744.0,120707.62,0.7518,50-80%
+Richard Friedman,East,Florida,2024-03,46888.259999999995,79567.86,0.5893,50-80%
+Lindsey Phillips,South,Southeast,2024-03,39489.3,99086.2,0.3985,<50%
+Norma Matthews,North,New England,2024-03,52309.39,143256.33,0.3651,<50%
+Daniel Cortez,North,Nyc Metro,2024-03,25204.25,121051.9,0.2082,<50%
+Jason Peters,East,Florida,2024-03,27667.92,155110.26,0.1784,<50%
+Larry Peck,North,Nyc Metro,2024-03,23273.55,149812.45,0.1554,<50%
+Ashlee Rosales,South,Texas,2024-03,22009.48,142851.33,0.1541,<50%
+Travis Jacobson,North,New England,2024-03,20469.96,144683.76,0.1415,<50%
+Sarah Cruz,East,Florida,2024-03,13730.68,156210.27,0.0879,<50%
+Tyrone Gray,South,Southeast,2024-03,7172.37,98378.23,0.0729,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-03,3944.29,116513.2,0.0339,<50%
+Angela Blevins,South,Texas,2024-03,0.0,97797.81,0.0,<50%
+Cassandra Ortiz,West,California,2024-03,0.0,152955.45,0.0,<50%
+Devon Castillo,West,California,2024-03,0.0,78218.78,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-03,0.0,123259.14,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2024-03,0.0,149872.1,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2024-03,0.0,118506.16,0.0,<50%
+Stephanie Cruz,North,New England,2024-03,0.0,77615.12,0.0,<50%
+Devon Castillo,West,California,2024-02,61192.53,76887.57,0.7959,50-80%
+Cassandra Ortiz,West,California,2024-02,93549.69,154019.49,0.6074,50-80%
+Nicole Silva Dds,North,Nyc Metro,2024-02,36250.15,117643.82,0.3081,<50%
+Tyrone Gray,South,Southeast,2024-02,27200.95,99523.74,0.2733,<50%
+Luke Miller,East,Mid-Atlantic,2024-02,29982.18,117890.61,0.2543,<50%
+Sarah Cruz,East,Florida,2024-02,35577.9,147426.86,0.2413,<50%
+Norma Matthews,North,New England,2024-02,14215.45,144062.13,0.0987,<50%
+Richard Friedman,East,Florida,2024-02,6820.8,80545.97,0.0847,<50%
+Kirk Roman,East,Mid-Atlantic,2024-02,8007.22,151333.4,0.0529,<50%
+Daniel Cortez,North,Nyc Metro,2024-02,3424.4,120091.63,0.0285,<50%
+Angela Blevins,South,Texas,2024-02,0.0,95079.02,0.0,<50%
+Ashlee Rosales,South,Texas,2024-02,0.0,152035.28,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-02,0.0,121561.31,0.0,<50%
+Jason Peters,East,Florida,2024-02,0.0,145691.31,0.0,<50%
+Larry Peck,North,Nyc Metro,2024-02,0.0,146861.62,0.0,<50%
+Lindsey Phillips,South,Southeast,2024-02,0.0,101016.0,0.0,<50%
+Richard Thomas,South,Texas,2024-02,0.0,121532.93,0.0,<50%
+Stephanie Cruz,North,New England,2024-02,0.0,76983.87,0.0,<50%
+Travis Jacobson,North,New England,2024-02,0.0,142946.44,0.0,<50%
+Troy Gordon,South,Southeast,2024-02,0.0,118833.04,0.0,<50%
+Richard Thomas,South,Texas,2024-01,104612.34,124732.07,0.8387,80-100%
+Jason Peters,East,Florida,2024-01,55994.840000000004,155136.58,0.3609,<50%
+Travis Jacobson,North,New England,2024-01,47103.47,147926.62,0.3184,<50%
+Dorothy Davidson,East,Mid-Atlantic,2024-01,24451.95,114297.65,0.2139,<50%
+Devon Castillo,West,California,2024-01,13791.58,81107.49,0.17,<50%
+Cassandra Ortiz,West,California,2024-01,22630.85,145157.8,0.1559,<50%
+Angela Blevins,South,Texas,2024-01,11585.09,104092.31,0.1113,<50%
+Norma Matthews,North,New England,2024-01,10520.79,151564.34,0.0694,<50%
+Ashlee Rosales,South,Texas,2024-01,7461.16,147610.63,0.0505,<50%
+Daniel Cortez,North,Nyc Metro,2024-01,0.0,119257.33,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2024-01,0.0,147306.47,0.0,<50%
+Larry Peck,North,Nyc Metro,2024-01,0.0,150814.57,0.0,<50%
+Lindsey Phillips,South,Southeast,2024-01,0.0,104518.22,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2024-01,0.0,118953.87,0.0,<50%
+Nicole Silva Dds,North,Nyc Metro,2024-01,0.0,125925.21,0.0,<50%
+Richard Friedman,East,Florida,2024-01,0.0,77004.57,0.0,<50%
+Sarah Cruz,East,Florida,2024-01,0.0,156884.89,0.0,<50%
+Stephanie Cruz,North,New England,2024-01,0.0,82553.29,0.0,<50%
+Troy Gordon,South,Southeast,2024-01,0.0,122121.87,0.0,<50%
+Tyrone Gray,South,Southeast,2024-01,0.0,98097.02,0.0,<50%
+Richard Friedman,East,Florida,2023-12,70919.32,81212.41,0.8733,80-100%
+Tyrone Gray,South,Southeast,2023-12,79869.01000000001,99811.76,0.8002,80-100%
+Nicole Silva Dds,North,Nyc Metro,2023-12,60637.47,118991.81,0.5096,50-80%
+Dorothy Davidson,East,Mid-Atlantic,2023-12,50272.78,115987.38,0.4334,<50%
+Daniel Cortez,North,Nyc Metro,2023-12,48546.34,119630.89,0.4058,<50%
+Devon Castillo,West,California,2023-12,26840.83,83874.11,0.32,<50%
+Sarah Cruz,East,Florida,2023-12,42116.96,145659.36,0.2891,<50%
+Jason Peters,East,Florida,2023-12,25649.94,157488.63,0.1629,<50%
+Larry Peck,North,Nyc Metro,2023-12,19535.760000000002,151437.59,0.129,<50%
+Richard Thomas,South,Texas,2023-12,14085.63,120787.17,0.1166,<50%
+Lindsey Phillips,South,Southeast,2023-12,9531.68,98693.32,0.0966,<50%
+Kirk Roman,East,Mid-Atlantic,2023-12,12025.64,150503.16,0.0799,<50%
+Ashlee Rosales,South,Texas,2023-12,7925.68,147183.79,0.0538,<50%
+Troy Gordon,South,Southeast,2023-12,3892.76,114936.87,0.0339,<50%
+Angela Blevins,South,Texas,2023-12,0.0,102426.98,0.0,<50%
+Cassandra Ortiz,West,California,2023-12,0.0,147869.49,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-12,0.0,117840.5,0.0,<50%
+Norma Matthews,North,New England,2023-12,0.0,155605.44,0.0,<50%
+Stephanie Cruz,North,New England,2023-12,0.0,78909.9,0.0,<50%
+Travis Jacobson,North,New England,2023-12,0.0,154419.11,0.0,<50%
+Richard Friedman,East,Florida,2023-11,55552.69,82103.83,0.6766,50-80%
+Cassandra Ortiz,West,California,2023-11,80895.49,154912.0,0.5222,50-80%
+Troy Gordon,South,Southeast,2023-11,57752.41,116577.41,0.4954,<50%
+Dorothy Davidson,East,Mid-Atlantic,2023-11,53191.71,115062.36,0.4623,<50%
+Larry Peck,North,Nyc Metro,2023-11,62738.22,153556.17,0.4086,<50%
+Kirk Roman,East,Mid-Atlantic,2023-11,56508.31,143769.72,0.393,<50%
+Lindsey Phillips,South,Southeast,2023-11,33622.45,104440.7,0.3219,<50%
+Sarah Cruz,East,Florida,2023-11,43820.44,147324.57,0.2974,<50%
+Jason Peters,East,Florida,2023-11,39971.51,152699.97,0.2618,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-11,24264.63,115210.84,0.2106,<50%
+Norma Matthews,North,New England,2023-11,26716.78,155301.12,0.172,<50%
+Travis Jacobson,North,New England,2023-11,25262.57,155285.86,0.1627,<50%
+Devon Castillo,West,California,2023-11,7489.4,76057.08,0.0985,<50%
+Daniel Cortez,North,Nyc Metro,2023-11,7469.99,122714.51,0.0609,<50%
+Angela Blevins,South,Texas,2023-11,0.0,98043.23,0.0,<50%
+Ashlee Rosales,South,Texas,2023-11,0.0,150175.07,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-11,0.0,118679.28,0.0,<50%
+Richard Thomas,South,Texas,2023-11,0.0,125868.0,0.0,<50%
+Stephanie Cruz,North,New England,2023-11,0.0,77234.37,0.0,<50%
+Tyrone Gray,South,Southeast,2023-11,0.0,95446.82,0.0,<50%
+Tyrone Gray,South,Southeast,2023-10,61254.92,95675.65,0.6402,50-80%
+Richard Thomas,South,Texas,2023-10,47248.68,123664.65,0.3821,<50%
+Devon Castillo,West,California,2023-10,29251.36,80848.22,0.3618,<50%
+Ashlee Rosales,South,Texas,2023-10,47305.66,145706.02,0.3247,<50%
+Dorothy Davidson,East,Mid-Atlantic,2023-10,34607.44,117328.5,0.295,<50%
+Cassandra Ortiz,West,California,2023-10,36238.6,154691.72,0.2343,<50%
+Lindsey Phillips,South,Southeast,2023-10,22545.11,102464.96,0.22,<50%
+Travis Jacobson,North,New England,2023-10,29597.620000000003,149381.3,0.1981,<50%
+Luke Miller,East,Mid-Atlantic,2023-10,9054.43,114702.02,0.0789,<50%
+Angela Blevins,South,Texas,2023-10,0.0,100536.1,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2023-10,0.0,115936.0,0.0,<50%
+Jason Peters,East,Florida,2023-10,0.0,146263.33,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2023-10,0.0,151193.29,0.0,<50%
+Larry Peck,North,Nyc Metro,2023-10,0.0,155229.24,0.0,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-10,0.0,121268.99,0.0,<50%
+Norma Matthews,North,New England,2023-10,0.0,155944.77,0.0,<50%
+Richard Friedman,East,Florida,2023-10,0.0,76812.08,0.0,<50%
+Sarah Cruz,East,Florida,2023-10,0.0,152434.16,0.0,<50%
+Stephanie Cruz,North,New England,2023-10,0.0,82963.94,0.0,<50%
+Troy Gordon,South,Southeast,2023-10,0.0,115560.76,0.0,<50%
+Lindsey Phillips,South,Southeast,2023-09,106761.93,99733.56,1.0705,100-120%
+Dorothy Davidson,East,Mid-Atlantic,2023-09,70013.64,119317.15,0.5868,50-80%
+Cassandra Ortiz,West,California,2023-09,66116.21,147794.92,0.4474,<50%
+Sarah Cruz,East,Florida,2023-09,55774.479999999996,146595.2,0.3805,<50%
+Troy Gordon,South,Southeast,2023-09,28921.61,119098.64,0.2428,<50%
+Richard Thomas,South,Texas,2023-09,29977.85,125795.41,0.2383,<50%
+Jason Peters,East,Florida,2023-09,26278.1,146599.54,0.1793,<50%
+Richard Friedman,East,Florida,2023-09,12344.6,80689.38,0.153,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-09,9209.87,116393.81,0.0791,<50%
+Norma Matthews,North,New England,2023-09,10906.25,150855.34,0.0723,<50%
+Devon Castillo,West,California,2023-09,4079.21,81632.38,0.05,<50%
+Stephanie Cruz,North,New England,2023-09,3640.92,79987.13,0.0455,<50%
+Luke Miller,East,Mid-Atlantic,2023-09,3266.08,114326.05,0.0286,<50%
+Angela Blevins,South,Texas,2023-09,0.0,101808.71,0.0,<50%
+Ashlee Rosales,South,Texas,2023-09,0.0,150611.85,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2023-09,0.0,119234.76,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2023-09,0.0,155083.76,0.0,<50%
+Larry Peck,North,Nyc Metro,2023-09,0.0,157192.3,0.0,<50%
+Travis Jacobson,North,New England,2023-09,0.0,148639.64,0.0,<50%
+Tyrone Gray,South,Southeast,2023-09,0.0,100475.37,0.0,<50%
+Devon Castillo,West,California,2023-08,41774.38,79942.7,0.5226,50-80%
+Richard Thomas,South,Texas,2023-08,48310.79,119437.77,0.4045,<50%
+Stephanie Cruz,North,New England,2023-08,22930.05,82095.72,0.2793,<50%
+Sarah Cruz,East,Florida,2023-08,41812.07,153116.31,0.2731,<50%
+Jason Peters,East,Florida,2023-08,40523.04,156327.16,0.2592,<50%
+Lindsey Phillips,South,Southeast,2023-08,21331.26,97126.43,0.2196,<50%
+Kirk Roman,East,Mid-Atlantic,2023-08,26349.55,154945.36,0.1701,<50%
+Cassandra Ortiz,West,California,2023-08,23669.37,152583.69,0.1551,<50%
+Angela Blevins,South,Texas,2023-08,12284.58,99020.03,0.1241,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-08,8576.02,115549.16,0.0742,<50%
+Travis Jacobson,North,New England,2023-08,10388.11,148701.14,0.0699,<50%
+Norma Matthews,North,New England,2023-08,10603.99,154051.42,0.0688,<50%
+Richard Friedman,East,Florida,2023-08,4317.63,80432.6,0.0537,<50%
+Larry Peck,North,Nyc Metro,2023-08,7292.49,153196.39,0.0476,<50%
+Tyrone Gray,South,Southeast,2023-08,3177.61,95020.86,0.0334,<50%
+Daniel Cortez,North,Nyc Metro,2023-08,3106.27,119379.9,0.026,<50%
+Ashlee Rosales,South,Texas,2023-08,0.0,150307.05,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2023-08,0.0,122045.33,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-08,0.0,117903.49,0.0,<50%
+Troy Gordon,South,Southeast,2023-08,0.0,115106.98,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-07,72973.59,121373.71,0.6012,50-80%
+Dorothy Davidson,East,Mid-Atlantic,2023-07,47243.44,114549.84,0.4124,<50%
+Tyrone Gray,South,Southeast,2023-07,39099.59,102396.6,0.3818,<50%
+Sarah Cruz,East,Florida,2023-07,38525.23,157194.61,0.2451,<50%
+Stephanie Cruz,North,New England,2023-07,14015.33,81665.31,0.1716,<50%
+Daniel Cortez,North,Nyc Metro,2023-07,20580.71,121754.16,0.169,<50%
+Cassandra Ortiz,West,California,2023-07,22762.9,152574.2,0.1492,<50%
+Richard Friedman,East,Florida,2023-07,4233.14,76148.98,0.0556,<50%
+Travis Jacobson,North,New England,2023-07,6509.08,154526.53,0.0421,<50%
+Norma Matthews,North,New England,2023-07,3660.44,154040.61,0.0238,<50%
+Angela Blevins,South,Texas,2023-07,0.0,97957.24,0.0,<50%
+Ashlee Rosales,South,Texas,2023-07,0.0,155698.13,0.0,<50%
+Devon Castillo,West,California,2023-07,0.0,76294.37,0.0,<50%
+Jason Peters,East,Florida,2023-07,0.0,143402.63,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2023-07,0.0,145587.07,0.0,<50%
+Larry Peck,North,Nyc Metro,2023-07,0.0,151956.15,0.0,<50%
+Lindsey Phillips,South,Southeast,2023-07,0.0,96180.58,0.0,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-07,0.0,122004.68,0.0,<50%
+Richard Thomas,South,Texas,2023-07,0.0,122842.3,0.0,<50%
+Troy Gordon,South,Southeast,2023-07,0.0,118944.64,0.0,<50%
+Devon Castillo,West,California,2023-06,68129.84999999999,83738.37,0.8136,80-100%
+Stephanie Cruz,North,New England,2023-06,50465.2,81826.79,0.6167,50-80%
+Angela Blevins,South,Texas,2023-06,49212.51,100197.78,0.4912,<50%
+Tyrone Gray,South,Southeast,2023-06,44293.0,96830.77,0.4574,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-06,39965.09,122991.05,0.3249,<50%
+Kirk Roman,East,Mid-Atlantic,2023-06,41966.46,146624.44,0.2862,<50%
+Dorothy Davidson,East,Mid-Atlantic,2023-06,25002.21,118067.97,0.2118,<50%
+Jason Peters,East,Florida,2023-06,26123.62,145010.73,0.1801,<50%
+Cassandra Ortiz,West,California,2023-06,21904.77,154981.26,0.1413,<50%
+Troy Gordon,South,Southeast,2023-06,13089.8,119108.31,0.1099,<50%
+Richard Thomas,South,Texas,2023-06,12803.08,117575.53,0.1089,<50%
+Ashlee Rosales,South,Texas,2023-06,13738.69,153283.21,0.0896,<50%
+Richard Friedman,East,Florida,2023-06,3075.38,83309.88,0.0369,<50%
+Daniel Cortez,North,Nyc Metro,2023-06,3820.69,121472.36,0.0315,<50%
+Sarah Cruz,East,Florida,2023-06,3086.5,152027.55,0.0203,<50%
+Larry Peck,North,Nyc Metro,2023-06,0.0,142618.11,0.0,<50%
+Lindsey Phillips,South,Southeast,2023-06,0.0,103632.72,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-06,0.0,116030.29,0.0,<50%
+Norma Matthews,North,New England,2023-06,0.0,154273.29,0.0,<50%
+Travis Jacobson,North,New England,2023-06,0.0,145922.73,0.0,<50%
+Lindsey Phillips,South,Southeast,2023-05,77076.4,102045.25,0.7553,50-80%
+Nicole Silva Dds,North,Nyc Metro,2023-05,75892.26,117389.49,0.6465,50-80%
+Troy Gordon,South,Southeast,2023-05,29660.47,115758.64,0.2562,<50%
+Daniel Cortez,North,Nyc Metro,2023-05,25246.99,115403.29,0.2188,<50%
+Norma Matthews,North,New England,2023-05,22104.86,157404.94,0.1404,<50%
+Devon Castillo,West,California,2023-05,11161.83,83840.95,0.1331,<50%
+Sarah Cruz,East,Florida,2023-05,12834.24,156681.13,0.0819,<50%
+Jason Peters,East,Florida,2023-05,12344.84,152295.88,0.0811,<50%
+Richard Thomas,South,Texas,2023-05,7234.11,115497.0,0.0626,<50%
+Richard Friedman,East,Florida,2023-05,4110.62,81068.33,0.0507,<50%
+Stephanie Cruz,North,New England,2023-05,3232.78,78893.11,0.041,<50%
+Kirk Roman,East,Mid-Atlantic,2023-05,3587.66,156935.65,0.0229,<50%
+Angela Blevins,South,Texas,2023-05,0.0,101603.62,0.0,<50%
+Ashlee Rosales,South,Texas,2023-05,0.0,148349.9,0.0,<50%
+Cassandra Ortiz,West,California,2023-05,0.0,142964.21,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2023-05,0.0,124802.93,0.0,<50%
+Larry Peck,North,Nyc Metro,2023-05,0.0,143263.83,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-05,0.0,118887.32,0.0,<50%
+Travis Jacobson,North,New England,2023-05,0.0,148825.83,0.0,<50%
+Tyrone Gray,South,Southeast,2023-05,0.0,97834.82,0.0,<50%
+Devon Castillo,West,California,2023-04,48281.06,77769.18,0.6208,50-80%
+Dorothy Davidson,East,Mid-Atlantic,2023-04,60955.92,118646.82,0.5138,50-80%
+Tyrone Gray,South,Southeast,2023-04,40830.36,98051.64,0.4164,<50%
+Richard Friedman,East,Florida,2023-04,27282.0,76231.25,0.3579,<50%
+Kirk Roman,East,Mid-Atlantic,2023-04,13832.79,150477.89,0.0919,<50%
+Norma Matthews,North,New England,2023-04,12188.96,149795.48,0.0814,<50%
+Cassandra Ortiz,West,California,2023-04,11312.95,143662.85,0.0787,<50%
+Sarah Cruz,East,Florida,2023-04,8083.44,155758.97,0.0519,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-04,4007.93,121462.11,0.033,<50%
+Troy Gordon,South,Southeast,2023-04,3459.27,119451.72,0.029,<50%
+Angela Blevins,South,Texas,2023-04,0.0,102133.7,0.0,<50%
+Ashlee Rosales,South,Texas,2023-04,0.0,150561.5,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2023-04,0.0,124669.69,0.0,<50%
+Jason Peters,East,Florida,2023-04,0.0,151810.95,0.0,<50%
+Larry Peck,North,Nyc Metro,2023-04,0.0,155007.58,0.0,<50%
+Lindsey Phillips,South,Southeast,2023-04,0.0,96293.85,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-04,0.0,117681.53,0.0,<50%
+Richard Thomas,South,Texas,2023-04,0.0,121811.55,0.0,<50%
+Stephanie Cruz,North,New England,2023-04,0.0,77643.09,0.0,<50%
+Travis Jacobson,North,New England,2023-04,0.0,153802.61,0.0,<50%
+Stephanie Cruz,North,New England,2023-03,48177.979999999996,76944.47,0.6261,50-80%
+Travis Jacobson,North,New England,2023-03,41398.46,144774.17,0.286,<50%
+Dorothy Davidson,East,Mid-Atlantic,2023-03,24271.059999999998,121483.07,0.1998,<50%
+Devon Castillo,West,California,2023-03,8996.62,82467.32,0.1091,<50%
+Ashlee Rosales,South,Texas,2023-03,13715.3,143764.21,0.0954,<50%
+Norma Matthews,North,New England,2023-03,13145.58,150929.72,0.0871,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-03,9457.55,124134.38,0.0762,<50%
+Sarah Cruz,East,Florida,2023-03,8828.05,154530.85,0.0571,<50%
+Cassandra Ortiz,West,California,2023-03,7357.08,152236.46,0.0483,<50%
+Jason Peters,East,Florida,2023-03,7412.67,156916.72,0.0472,<50%
+Luke Miller,East,Mid-Atlantic,2023-03,3945.76,115075.54,0.0343,<50%
+Angela Blevins,South,Texas,2023-03,0.0,101316.08,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2023-03,0.0,121779.6,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2023-03,0.0,152373.82,0.0,<50%
+Larry Peck,North,Nyc Metro,2023-03,0.0,151041.46,0.0,<50%
+Lindsey Phillips,South,Southeast,2023-03,0.0,102111.51,0.0,<50%
+Richard Friedman,East,Florida,2023-03,0.0,76523.67,0.0,<50%
+Richard Thomas,South,Texas,2023-03,0.0,114572.79,0.0,<50%
+Troy Gordon,South,Southeast,2023-03,0.0,123342.59,0.0,<50%
+Tyrone Gray,South,Southeast,2023-03,0.0,104368.21,0.0,<50%
+Norma Matthews,North,New England,2023-02,43770.08,145900.35,0.3,<50%
+Tyrone Gray,South,Southeast,2023-02,12491.48,99217.57,0.1259,<50%
+Kirk Roman,East,Mid-Atlantic,2023-02,13191.24,142779.96,0.0924,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-02,7098.1,123597.06,0.0574,<50%
+Angela Blevins,South,Texas,2023-02,0.0,95578.1,0.0,<50%
+Ashlee Rosales,South,Texas,2023-02,0.0,155714.62,0.0,<50%
+Cassandra Ortiz,West,California,2023-02,0.0,154309.58,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2023-02,0.0,117214.19,0.0,<50%
+Devon Castillo,West,California,2023-02,0.0,81001.89,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2023-02,0.0,121497.25,0.0,<50%
+Jason Peters,East,Florida,2023-02,0.0,154689.66,0.0,<50%
+Larry Peck,North,Nyc Metro,2023-02,0.0,145520.08,0.0,<50%
+Lindsey Phillips,South,Southeast,2023-02,0.0,96271.24,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-02,0.0,117066.65,0.0,<50%
+Richard Friedman,East,Florida,2023-02,0.0,80424.97,0.0,<50%
+Richard Thomas,South,Texas,2023-02,0.0,118253.68,0.0,<50%
+Sarah Cruz,East,Florida,2023-02,0.0,150072.3,0.0,<50%
+Stephanie Cruz,North,New England,2023-02,0.0,77336.37,0.0,<50%
+Travis Jacobson,North,New England,2023-02,0.0,152474.93,0.0,<50%
+Troy Gordon,South,Southeast,2023-02,0.0,116310.66,0.0,<50%
+Angela Blevins,South,Texas,2023-01,0.0,104025.11,0.0,<50%
+Ashlee Rosales,South,Texas,2023-01,0.0,154131.01,0.0,<50%
+Cassandra Ortiz,West,California,2023-01,0.0,150571.97,0.0,<50%
+Daniel Cortez,North,Nyc Metro,2023-01,0.0,120639.07,0.0,<50%
+Devon Castillo,West,California,2023-01,0.0,82530.25,0.0,<50%
+Dorothy Davidson,East,Mid-Atlantic,2023-01,0.0,115071.78,0.0,<50%
+Jason Peters,East,Florida,2023-01,0.0,143126.88,0.0,<50%
+Kirk Roman,East,Mid-Atlantic,2023-01,0.0,150039.58,0.0,<50%
+Larry Peck,North,Nyc Metro,2023-01,0.0,151278.39,0.0,<50%
+Lindsey Phillips,South,Southeast,2023-01,0.0,96443.46,0.0,<50%
+Luke Miller,East,Mid-Atlantic,2023-01,0.0,115728.41,0.0,<50%
+Nicole Silva Dds,North,Nyc Metro,2023-01,0.0,123551.67,0.0,<50%
+Norma Matthews,North,New England,2023-01,0.0,144209.54,0.0,<50%
+Richard Friedman,East,Florida,2023-01,0.0,78546.69,0.0,<50%
+Richard Thomas,South,Texas,2023-01,0.0,121523.87,0.0,<50%
+Sarah Cruz,East,Florida,2023-01,0.0,145662.75,0.0,<50%
+Stephanie Cruz,North,New England,2023-01,0.0,80058.45,0.0,<50%
+Travis Jacobson,North,New England,2023-01,0.0,147909.65,0.0,<50%
+Troy Gordon,South,Southeast,2023-01,0.0,120197.42,0.0,<50%
+Tyrone Gray,South,Southeast,2023-01,0.0,102837.93,0.0,<50%
